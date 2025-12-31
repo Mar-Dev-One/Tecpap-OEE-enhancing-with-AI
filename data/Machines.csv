@@ -1,0 +1,11 @@
+Machine_ID,Date_installation,Derniere_maintenance,Nombre_heures_utilisation,Etat_actuel,Nombre_pannes
+M1,2023-02-01,2027-10-16,9506,En service,3
+M2,2019-12-04,2024-04-06,17135,Hors service,1
+M3,2022-07-02,2023-03-20,6535,En service,3
+M4,2022-10-01,2026-06-11,8257,Hors service,10
+M5,2023-09-14,2025-06-26,12359,Hors service,4
+M6,2024-01-25,2029-02-17,7615,Hors service,6
+M7,2020-05-05,2022-02-04,17509,Maintenance,1
+M8,2018-07-04,2021-01-24,18885,Maintenance,9
+M9,2020-01-24,2023-03-09,13785,En service,6
+M10,2018-09-10,2023-11-21,15299,Hors service,5

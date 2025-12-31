@@ -1,0 +1,1001 @@
+Machine_ID,Date_panne,Type_panne,Duree_arret_h,Action_corrective,Technicien,Cout_EUR,Cause_probable
+M1,2025-06-11,Surchauffe,5.1,Réparation,Youssef,613.78,Surcharge
+M7,2024-10-25,Capteur,7.0,Nettoyage,Fatima,503.13,Surcharge
+M8,2023-11-10,Courroie,6.0,Nettoyage,Amina,964.85,Mauvais réglage
+M8,2023-04-25,Capteur,5.7,Réglage,Fatima,887.71,Défaut matériel
+M7,2024-02-02,Surchauffe,3.5,Réparation,Karim,592.16,Défaut matériel
+M9,2024-03-17,Courroie,6.7,Réparation,Said,970.27,Mauvais réglage
+M5,2025-05-01,Autres,6.3,Réglage,Karim,568.13,Défaut matériel
+M10,2025-06-14,Capteur,6.6,Réglage,Fatima,142.34,Surcharge
+M4,2023-09-08,Moteur,4.8,Réparation,Said,767.08,Mauvais réglage
+M8,2024-10-03,Capteur,6.6,Réparation,Amina,642.22,Surcharge
+M10,2025-01-03,Capteur,6.4,Nettoyage,Karim,169.1,Surcharge
+M2,2025-06-06,Capteur,1.2,Nettoyage,Said,189.47,Surcharge
+M4,2023-04-08,Courroie,6.7,Nettoyage,Karim,361.98,Usure
+M10,2025-03-03,Moteur,2.2,Nettoyage,Youssef,209.97,Défaut matériel
+M8,2023-01-27,Autres,1.8,Réglage,Said,116.35,Surcharge
+M2,2025-08-16,Courroie,5.4,Remplacement,Karim,729.24,Usure
+M10,2025-12-03,Courroie,7.7,Réglage,Youssef,838.75,Surcharge
+M5,2024-09-08,Capteur,2.8,Réparation,Karim,435.45,Usure
+M6,2024-12-16,Autres,3.1,Remplacement,Karim,518.68,Usure
+M9,2024-01-05,Autres,4.4,Nettoyage,Karim,859.39,Usure
+M1,2025-04-22,Autres,7.9,Remplacement,Said,939.78,Surcharge
+M5,2025-12-19,Capteur,5.5,Nettoyage,Youssef,201.93,Usure
+M1,2024-10-28,Capteur,6.0,Réglage,Karim,591.75,Surcharge
+M6,2023-12-15,Surchauffe,3.7,Nettoyage,Karim,895.65,Usure
+M4,2023-02-14,Surchauffe,4.3,Réglage,Youssef,576.22,Surcharge
+M3,2024-08-22,Moteur,1.2,Réparation,Amina,554.98,Usure
+M7,2024-12-18,Capteur,3.9,Remplacement,Youssef,387.87,Mauvais réglage
+M4,2025-07-28,Capteur,2.8,Réparation,Amina,310.48,Usure
+M3,2023-01-20,Moteur,5.0,Réparation,Fatima,287.84,Usure
+M5,2025-01-12,Moteur,6.5,Réglage,Karim,154.58,Mauvais réglage
+M1,2024-06-26,Autres,3.2,Réglage,Said,387.92,Mauvais réglage
+M7,2024-08-02,Courroie,2.6,Réglage,Amina,506.88,Défaut matériel
+M1,2025-01-18,Capteur,5.6,Remplacement,Amina,453.43,Mauvais réglage
+M1,2024-09-08,Moteur,3.3,Remplacement,Amina,912.49,Défaut matériel
+M3,2024-11-20,Capteur,7.9,Nettoyage,Said,268.66,Usure
+M2,2025-09-08,Surchauffe,1.9,Remplacement,Karim,776.27,Usure
+M4,2024-01-14,Courroie,7.3,Remplacement,Karim,897.22,Usure
+M6,2023-03-10,Surchauffe,1.3,Remplacement,Karim,706.97,Mauvais réglage
+M8,2023-12-03,Courroie,4.2,Réglage,Said,416.48,Défaut matériel
+M10,2024-09-18,Capteur,3.8,Remplacement,Youssef,904.81,Mauvais réglage
+M1,2024-12-22,Surchauffe,5.2,Réglage,Said,716.27,Surcharge
+M9,2025-09-04,Moteur,5.0,Remplacement,Fatima,838.85,Mauvais réglage
+M7,2024-12-13,Courroie,4.3,Remplacement,Said,874.46,Surcharge
+M5,2025-07-24,Courroie,1.2,Remplacement,Said,237.95,Usure
+M8,2024-05-11,Courroie,1.5,Réparation,Karim,216.04,Surcharge
+M4,2025-01-09,Surchauffe,5.9,Nettoyage,Fatima,506.9,Surcharge
+M8,2024-11-05,Capteur,3.3,Nettoyage,Karim,655.54,Mauvais réglage
+M10,2025-12-06,Autres,4.7,Réparation,Youssef,424.68,Défaut matériel
+M3,2024-03-20,Capteur,5.3,Nettoyage,Fatima,730.53,Usure
+M3,2025-05-01,Autres,7.3,Nettoyage,Said,552.73,Défaut matériel
+M4,2025-10-26,Courroie,4.7,Réglage,Said,357.4,Surcharge
+M8,2023-10-18,Courroie,2.6,Réglage,Youssef,739.1,Usure
+M9,2025-09-14,Courroie,5.6,Nettoyage,Youssef,525.99,Mauvais réglage
+M4,2023-05-01,Capteur,7.6,Remplacement,Karim,469.91,Surcharge
+M4,2024-01-04,Capteur,2.8,Remplacement,Fatima,458.52,Surcharge
+M5,2025-06-06,Courroie,7.8,Nettoyage,Amina,254.19,Défaut matériel
+M3,2023-04-12,Surchauffe,4.2,Réglage,Fatima,427.43,Usure
+M5,2023-05-28,Capteur,3.0,Remplacement,Karim,194.73,Mauvais réglage
+M5,2025-05-10,Surchauffe,7.9,Réparation,Fatima,250.03,Usure
+M9,2025-12-10,Surchauffe,2.3,Réparation,Youssef,555.1,Mauvais réglage
+M2,2023-10-04,Courroie,1.9,Réglage,Amina,677.51,Surcharge
+M5,2025-07-10,Autres,2.2,Réparation,Youssef,327.87,Surcharge
+M6,2023-11-20,Courroie,5.3,Réglage,Said,830.78,Mauvais réglage
+M4,2023-01-15,Moteur,3.2,Réglage,Fatima,983.41,Usure
+M9,2023-05-16,Capteur,7.2,Nettoyage,Karim,405.64,Défaut matériel
+M9,2023-05-11,Moteur,6.2,Remplacement,Said,182.61,Mauvais réglage
+M7,2024-04-24,Courroie,4.3,Nettoyage,Fatima,285.03,Usure
+M2,2024-11-14,Courroie,1.1,Réparation,Karim,752.85,Défaut matériel
+M10,2025-07-08,Surchauffe,6.2,Remplacement,Youssef,819.08,Usure
+M9,2024-10-23,Courroie,5.4,Réglage,Karim,482.27,Mauvais réglage
+M8,2023-06-19,Moteur,1.1,Nettoyage,Fatima,102.0,Surcharge
+M2,2024-01-01,Moteur,7.4,Nettoyage,Amina,248.55,Défaut matériel
+M9,2023-11-05,Capteur,1.8,Remplacement,Said,452.0,Usure
+M5,2025-12-20,Capteur,4.8,Réglage,Karim,865.42,Défaut matériel
+M7,2025-10-27,Courroie,5.5,Réglage,Youssef,129.18,Usure
+M2,2024-02-09,Capteur,6.9,Réglage,Amina,112.46,Défaut matériel
+M4,2024-03-08,Autres,5.9,Réparation,Karim,746.56,Mauvais réglage
+M10,2024-03-17,Surchauffe,5.9,Réglage,Amina,977.76,Défaut matériel
+M7,2023-08-23,Autres,6.4,Nettoyage,Said,306.66,Mauvais réglage
+M6,2024-08-19,Autres,4.3,Nettoyage,Amina,499.22,Usure
+M8,2024-12-21,Surchauffe,1.7,Nettoyage,Said,345.33,Usure
+M6,2023-05-27,Autres,6.9,Remplacement,Youssef,406.9,Défaut matériel
+M1,2023-09-12,Courroie,6.4,Réparation,Amina,745.02,Défaut matériel
+M4,2024-05-22,Courroie,4.3,Remplacement,Amina,393.99,Usure
+M3,2023-01-03,Capteur,4.5,Réparation,Youssef,696.96,Défaut matériel
+M5,2025-05-04,Capteur,4.7,Réglage,Fatima,624.19,Usure
+M9,2024-10-21,Courroie,2.6,Réglage,Youssef,402.73,Mauvais réglage
+M4,2024-08-25,Autres,6.1,Réglage,Karim,840.66,Défaut matériel
+M6,2024-08-08,Surchauffe,4.4,Réglage,Youssef,397.23,Surcharge
+M3,2024-12-18,Courroie,6.8,Réparation,Said,861.13,Usure
+M2,2025-08-26,Capteur,3.3,Nettoyage,Amina,630.09,Surcharge
+M10,2024-10-22,Courroie,6.3,Réglage,Youssef,288.12,Défaut matériel
+M8,2024-11-28,Autres,5.1,Remplacement,Youssef,154.2,Surcharge
+M9,2024-05-02,Moteur,4.1,Réglage,Karim,408.24,Usure
+M3,2024-03-14,Surchauffe,4.9,Réparation,Fatima,299.24,Mauvais réglage
+M2,2025-04-22,Courroie,7.6,Réparation,Youssef,400.34,Mauvais réglage
+M7,2023-05-05,Capteur,6.1,Remplacement,Fatima,153.6,Mauvais réglage
+M3,2023-07-26,Surchauffe,2.7,Réparation,Karim,162.05,Défaut matériel
+M9,2024-04-15,Capteur,2.0,Réparation,Fatima,996.94,Surcharge
+M4,2025-09-02,Autres,3.0,Remplacement,Amina,176.53,Défaut matériel
+M1,2023-04-27,Capteur,6.2,Remplacement,Said,833.68,Mauvais réglage
+M5,2023-09-21,Courroie,3.1,Réparation,Karim,698.47,Usure
+M10,2023-02-08,Autres,4.3,Remplacement,Youssef,715.74,Usure
+M1,2025-04-14,Courroie,4.4,Réparation,Amina,804.81,Défaut matériel
+M4,2024-06-25,Courroie,7.7,Réglage,Fatima,413.73,Mauvais réglage
+M10,2023-04-09,Autres,7.3,Remplacement,Said,397.74,Mauvais réglage
+M4,2024-12-24,Moteur,1.8,Nettoyage,Amina,661.84,Mauvais réglage
+M6,2023-04-27,Autres,1.3,Nettoyage,Youssef,722.03,Surcharge
+M2,2023-06-22,Moteur,6.2,Réglage,Said,383.41,Usure
+M8,2023-03-13,Courroie,2.8,Nettoyage,Amina,112.79,Défaut matériel
+M5,2025-02-11,Moteur,5.4,Réglage,Fatima,833.47,Défaut matériel
+M7,2023-02-14,Autres,7.7,Nettoyage,Fatima,694.81,Défaut matériel
+M10,2024-04-02,Surchauffe,2.2,Remplacement,Amina,610.11,Défaut matériel
+M3,2024-03-22,Capteur,1.2,Réglage,Said,658.0,Défaut matériel
+M8,2023-03-12,Autres,4.8,Réglage,Said,987.73,Usure
+M10,2025-12-19,Surchauffe,7.7,Réglage,Karim,445.68,Mauvais réglage
+M10,2025-02-24,Autres,5.9,Réglage,Fatima,852.59,Défaut matériel
+M5,2024-07-09,Capteur,6.4,Nettoyage,Said,105.31,Mauvais réglage
+M2,2024-03-10,Autres,7.1,Réparation,Amina,584.51,Mauvais réglage
+M5,2024-01-26,Autres,1.5,Réparation,Amina,639.2,Mauvais réglage
+M1,2023-11-10,Moteur,3.6,Nettoyage,Amina,541.08,Mauvais réglage
+M1,2025-03-17,Moteur,5.9,Réglage,Karim,515.28,Usure
+M8,2023-05-23,Moteur,7.0,Nettoyage,Karim,472.24,Surcharge
+M5,2023-12-16,Capteur,5.1,Remplacement,Amina,896.72,Mauvais réglage
+M8,2024-03-16,Capteur,3.4,Nettoyage,Youssef,784.25,Défaut matériel
+M8,2025-09-11,Surchauffe,7.4,Remplacement,Amina,916.54,Défaut matériel
+M9,2025-02-12,Courroie,3.5,Remplacement,Fatima,428.33,Défaut matériel
+M7,2023-07-14,Autres,4.9,Réglage,Karim,609.11,Défaut matériel
+M4,2024-05-14,Surchauffe,5.5,Réglage,Fatima,207.48,Défaut matériel
+M2,2023-04-07,Courroie,5.1,Nettoyage,Youssef,218.53,Mauvais réglage
+M2,2025-03-12,Courroie,3.8,Remplacement,Said,215.79,Surcharge
+M7,2025-08-28,Surchauffe,6.2,Réparation,Said,537.48,Mauvais réglage
+M9,2024-10-25,Autres,6.8,Réparation,Youssef,176.75,Défaut matériel
+M4,2023-06-06,Moteur,4.5,Réglage,Youssef,449.81,Surcharge
+M3,2024-10-24,Surchauffe,1.6,Nettoyage,Youssef,103.89,Usure
+M3,2024-05-13,Moteur,5.1,Remplacement,Amina,451.41,Usure
+M10,2023-10-27,Courroie,4.5,Nettoyage,Amina,996.58,Usure
+M9,2024-11-12,Courroie,2.6,Remplacement,Amina,809.31,Surcharge
+M4,2023-07-07,Courroie,3.4,Nettoyage,Fatima,541.3,Mauvais réglage
+M7,2025-12-10,Autres,2.2,Réglage,Karim,101.68,Mauvais réglage
+M1,2025-01-07,Capteur,7.0,Réparation,Youssef,116.62,Surcharge
+M5,2025-03-23,Courroie,4.1,Nettoyage,Fatima,214.59,Surcharge
+M6,2024-02-04,Capteur,4.9,Remplacement,Youssef,851.32,Usure
+M7,2025-12-24,Autres,5.1,Réparation,Youssef,695.18,Mauvais réglage
+M4,2025-11-28,Moteur,1.4,Remplacement,Youssef,552.26,Usure
+M8,2024-10-01,Capteur,6.7,Réparation,Amina,446.44,Surcharge
+M7,2025-12-20,Capteur,3.1,Remplacement,Youssef,242.53,Mauvais réglage
+M10,2025-05-11,Capteur,1.1,Réparation,Said,144.32,Surcharge
+M10,2024-01-27,Surchauffe,2.6,Nettoyage,Fatima,669.65,Surcharge
+M2,2025-04-05,Surchauffe,6.0,Nettoyage,Amina,957.57,Mauvais réglage
+M7,2024-02-19,Moteur,5.4,Nettoyage,Karim,432.24,Défaut matériel
+M9,2023-08-26,Courroie,1.5,Réglage,Youssef,355.63,Mauvais réglage
+M9,2025-02-17,Autres,3.5,Nettoyage,Said,552.51,Surcharge
+M1,2025-02-11,Autres,1.8,Réparation,Amina,546.99,Mauvais réglage
+M10,2023-04-13,Courroie,6.1,Réglage,Amina,472.54,Mauvais réglage
+M3,2025-03-05,Courroie,5.9,Remplacement,Said,689.96,Mauvais réglage
+M10,2025-01-28,Autres,7.7,Réglage,Said,870.27,Mauvais réglage
+M4,2025-12-27,Surchauffe,2.8,Réparation,Amina,850.29,Défaut matériel
+M7,2023-12-08,Autres,7.4,Réparation,Fatima,662.8,Usure
+M1,2025-10-28,Surchauffe,1.6,Réglage,Amina,770.33,Surcharge
+M3,2023-10-23,Surchauffe,5.6,Nettoyage,Amina,826.36,Usure
+M10,2024-02-05,Moteur,5.5,Réparation,Amina,195.47,Mauvais réglage
+M4,2024-01-23,Autres,4.7,Remplacement,Amina,222.23,Surcharge
+M1,2023-11-23,Autres,2.5,Remplacement,Karim,242.15,Défaut matériel
+M7,2024-07-08,Moteur,4.1,Nettoyage,Amina,301.19,Mauvais réglage
+M9,2023-07-12,Moteur,3.9,Réparation,Karim,621.37,Usure
+M6,2024-11-28,Surchauffe,3.3,Nettoyage,Said,467.23,Défaut matériel
+M1,2024-05-13,Capteur,6.7,Nettoyage,Karim,453.22,Usure
+M10,2025-06-09,Autres,7.9,Réparation,Youssef,746.81,Usure
+M6,2025-09-14,Moteur,4.7,Nettoyage,Fatima,291.11,Usure
+M3,2025-03-14,Courroie,6.9,Nettoyage,Fatima,344.91,Défaut matériel
+M9,2023-11-02,Autres,4.9,Remplacement,Fatima,112.72,Usure
+M5,2024-02-27,Courroie,3.2,Remplacement,Karim,123.02,Usure
+M1,2024-04-17,Surchauffe,4.5,Réglage,Amina,496.93,Surcharge
+M5,2025-08-10,Courroie,2.7,Nettoyage,Said,672.6,Usure
+M9,2025-05-04,Autres,2.5,Réglage,Said,440.17,Usure
+M9,2023-03-04,Moteur,2.4,Réglage,Fatima,213.27,Mauvais réglage
+M3,2024-11-03,Autres,1.7,Remplacement,Youssef,780.13,Mauvais réglage
+M1,2025-05-06,Surchauffe,5.6,Remplacement,Youssef,382.16,Défaut matériel
+M10,2025-12-27,Capteur,5.1,Nettoyage,Youssef,602.04,Défaut matériel
+M7,2024-07-28,Courroie,4.0,Nettoyage,Said,619.51,Mauvais réglage
+M2,2023-05-01,Autres,5.5,Réparation,Said,296.08,Défaut matériel
+M5,2024-11-23,Moteur,5.6,Remplacement,Said,276.9,Surcharge
+M3,2025-10-22,Autres,2.4,Réparation,Karim,262.32,Défaut matériel
+M4,2025-03-01,Surchauffe,4.3,Réglage,Said,171.86,Mauvais réglage
+M2,2023-04-27,Moteur,7.1,Réparation,Said,473.47,Mauvais réglage
+M8,2024-07-27,Moteur,4.2,Nettoyage,Said,597.4,Surcharge
+M1,2023-01-05,Courroie,4.7,Réglage,Amina,342.83,Mauvais réglage
+M9,2025-03-08,Moteur,5.8,Nettoyage,Amina,111.66,Défaut matériel
+M8,2025-08-04,Capteur,5.2,Réglage,Said,524.93,Surcharge
+M7,2024-06-25,Moteur,7.2,Nettoyage,Amina,353.62,Défaut matériel
+M8,2024-12-12,Surchauffe,1.7,Réglage,Youssef,507.35,Surcharge
+M6,2024-12-10,Surchauffe,7.8,Nettoyage,Fatima,225.55,Défaut matériel
+M10,2025-01-23,Autres,1.8,Réglage,Karim,785.71,Usure
+M2,2024-12-14,Capteur,4.3,Nettoyage,Said,878.14,Usure
+M6,2024-07-10,Courroie,6.2,Remplacement,Fatima,154.26,Défaut matériel
+M9,2023-10-18,Capteur,2.4,Remplacement,Said,301.01,Défaut matériel
+M6,2025-01-06,Surchauffe,6.3,Réparation,Karim,323.76,Mauvais réglage
+M6,2024-04-23,Capteur,2.7,Nettoyage,Youssef,370.59,Mauvais réglage
+M3,2024-06-15,Moteur,1.4,Réglage,Fatima,750.22,Surcharge
+M7,2023-09-18,Capteur,1.1,Nettoyage,Fatima,995.83,Surcharge
+M8,2023-07-04,Courroie,5.7,Nettoyage,Said,918.35,Défaut matériel
+M10,2024-12-09,Capteur,4.4,Nettoyage,Amina,122.13,Mauvais réglage
+M5,2024-09-25,Capteur,4.1,Réparation,Said,186.38,Surcharge
+M2,2025-03-06,Surchauffe,6.1,Remplacement,Youssef,939.84,Surcharge
+M3,2025-12-01,Courroie,7.1,Nettoyage,Fatima,316.59,Mauvais réglage
+M2,2025-06-09,Surchauffe,3.4,Remplacement,Said,651.62,Mauvais réglage
+M9,2025-04-03,Moteur,2.8,Remplacement,Youssef,412.44,Surcharge
+M1,2023-03-17,Courroie,2.1,Nettoyage,Fatima,700.96,Usure
+M5,2024-10-27,Courroie,6.3,Réglage,Amina,190.24,Défaut matériel
+M3,2023-04-05,Surchauffe,6.5,Remplacement,Said,476.04,Défaut matériel
+M9,2024-07-10,Capteur,7.7,Réglage,Amina,447.94,Surcharge
+M4,2023-10-06,Autres,7.0,Réparation,Youssef,568.6,Mauvais réglage
+M7,2024-11-07,Moteur,3.8,Réparation,Youssef,319.68,Mauvais réglage
+M7,2023-02-16,Courroie,2.1,Nettoyage,Said,792.54,Surcharge
+M4,2025-07-10,Autres,5.3,Réglage,Amina,353.16,Usure
+M2,2024-04-09,Capteur,7.0,Remplacement,Youssef,948.51,Usure
+M2,2024-07-08,Courroie,6.4,Nettoyage,Youssef,571.75,Mauvais réglage
+M6,2024-02-10,Autres,6.3,Réglage,Amina,653.79,Défaut matériel
+M3,2023-10-12,Moteur,1.5,Remplacement,Said,380.98,Défaut matériel
+M2,2023-07-24,Courroie,7.9,Remplacement,Karim,264.39,Défaut matériel
+M1,2024-07-19,Moteur,1.1,Réparation,Fatima,651.23,Mauvais réglage
+M4,2025-11-20,Courroie,1.7,Nettoyage,Fatima,349.71,Usure
+M7,2024-11-16,Surchauffe,4.8,Réglage,Amina,886.28,Surcharge
+M3,2023-07-12,Capteur,1.4,Réglage,Youssef,907.22,Surcharge
+M6,2024-12-09,Moteur,6.9,Réparation,Karim,820.23,Usure
+M8,2023-10-17,Capteur,3.6,Nettoyage,Karim,991.42,Usure
+M7,2024-08-04,Surchauffe,2.8,Nettoyage,Youssef,691.35,Usure
+M8,2023-05-15,Surchauffe,5.0,Réglage,Fatima,761.99,Usure
+M3,2025-09-23,Autres,2.2,Nettoyage,Youssef,105.21,Surcharge
+M9,2025-09-03,Capteur,3.5,Remplacement,Said,627.86,Mauvais réglage
+M3,2023-08-28,Moteur,3.7,Remplacement,Youssef,475.35,Défaut matériel
+M3,2024-01-28,Moteur,3.3,Réparation,Youssef,988.17,Surcharge
+M5,2025-10-03,Autres,2.6,Réglage,Youssef,148.76,Surcharge
+M6,2023-12-25,Surchauffe,2.2,Réparation,Youssef,809.49,Surcharge
+M9,2023-09-10,Capteur,3.1,Réparation,Amina,419.3,Surcharge
+M10,2025-10-09,Autres,2.1,Réglage,Said,117.24,Surcharge
+M1,2025-07-21,Moteur,2.8,Réglage,Said,470.32,Surcharge
+M3,2025-11-02,Moteur,4.6,Réglage,Karim,778.55,Mauvais réglage
+M9,2024-11-04,Moteur,3.3,Réglage,Karim,601.38,Surcharge
+M8,2024-03-04,Moteur,1.4,Réparation,Fatima,360.05,Défaut matériel
+M10,2025-04-19,Moteur,1.8,Réparation,Karim,535.98,Mauvais réglage
+M1,2023-04-23,Courroie,2.8,Réglage,Said,456.52,Défaut matériel
+M4,2024-05-25,Courroie,2.9,Réparation,Amina,951.07,Défaut matériel
+M3,2023-07-13,Surchauffe,6.1,Réparation,Fatima,193.18,Usure
+M9,2023-09-01,Autres,2.4,Nettoyage,Said,675.47,Mauvais réglage
+M3,2025-11-19,Moteur,5.4,Réglage,Youssef,622.78,Mauvais réglage
+M2,2024-01-05,Surchauffe,3.8,Réparation,Amina,436.12,Défaut matériel
+M7,2025-05-18,Capteur,7.5,Remplacement,Amina,276.67,Défaut matériel
+M9,2023-08-11,Autres,2.0,Remplacement,Youssef,404.47,Défaut matériel
+M7,2024-03-20,Autres,6.8,Nettoyage,Said,298.19,Surcharge
+M10,2024-04-20,Courroie,3.6,Remplacement,Said,688.12,Mauvais réglage
+M4,2023-10-26,Courroie,4.9,Nettoyage,Fatima,734.33,Usure
+M2,2023-05-20,Courroie,6.7,Réglage,Amina,980.45,Mauvais réglage
+M8,2023-11-28,Courroie,5.6,Remplacement,Fatima,784.77,Usure
+M10,2024-08-18,Surchauffe,1.5,Réglage,Amina,979.0,Mauvais réglage
+M10,2024-08-08,Moteur,5.3,Remplacement,Youssef,795.98,Mauvais réglage
+M1,2024-08-07,Courroie,7.4,Remplacement,Karim,567.0,Usure
+M5,2023-12-22,Surchauffe,4.5,Réparation,Said,675.21,Surcharge
+M1,2024-12-06,Autres,6.6,Réparation,Amina,821.69,Défaut matériel
+M10,2025-02-13,Courroie,3.2,Nettoyage,Youssef,469.16,Mauvais réglage
+M2,2023-01-09,Surchauffe,4.8,Réparation,Said,925.48,Défaut matériel
+M8,2023-03-13,Courroie,3.3,Nettoyage,Said,848.72,Surcharge
+M10,2023-03-28,Autres,4.4,Réglage,Youssef,332.43,Usure
+M10,2024-01-21,Moteur,4.7,Réglage,Said,800.55,Mauvais réglage
+M4,2024-12-08,Surchauffe,1.4,Nettoyage,Amina,909.28,Surcharge
+M2,2025-06-12,Courroie,5.0,Remplacement,Amina,839.42,Défaut matériel
+M10,2024-05-18,Moteur,6.0,Réglage,Fatima,102.04,Usure
+M5,2023-08-12,Capteur,3.9,Nettoyage,Karim,145.82,Défaut matériel
+M5,2023-08-25,Courroie,7.9,Nettoyage,Said,470.01,Surcharge
+M3,2025-09-17,Surchauffe,5.6,Réglage,Youssef,508.11,Surcharge
+M5,2024-10-23,Autres,4.4,Nettoyage,Fatima,203.42,Défaut matériel
+M4,2024-07-21,Surchauffe,6.8,Réglage,Amina,759.49,Mauvais réglage
+M9,2024-09-23,Capteur,7.8,Réparation,Karim,919.23,Mauvais réglage
+M4,2025-12-23,Autres,2.0,Remplacement,Amina,723.88,Défaut matériel
+M8,2023-09-11,Courroie,2.4,Remplacement,Karim,527.92,Surcharge
+M1,2024-01-06,Moteur,3.5,Remplacement,Fatima,208.83,Usure
+M7,2025-07-28,Surchauffe,4.5,Nettoyage,Amina,798.77,Usure
+M8,2023-03-15,Courroie,5.0,Remplacement,Amina,486.98,Mauvais réglage
+M1,2024-05-06,Courroie,8.0,Nettoyage,Said,748.63,Usure
+M5,2023-09-18,Courroie,5.4,Réparation,Amina,457.88,Surcharge
+M8,2023-03-24,Capteur,3.4,Remplacement,Amina,676.31,Surcharge
+M10,2023-06-17,Courroie,3.2,Réglage,Amina,213.5,Défaut matériel
+M1,2024-07-26,Autres,4.3,Nettoyage,Karim,713.85,Défaut matériel
+M10,2023-07-23,Surchauffe,7.4,Réglage,Karim,696.81,Surcharge
+M7,2023-04-09,Autres,1.2,Réparation,Youssef,184.24,Surcharge
+M3,2025-01-27,Courroie,6.7,Réparation,Amina,491.88,Mauvais réglage
+M5,2025-01-11,Capteur,2.6,Réglage,Youssef,664.49,Usure
+M7,2025-05-08,Capteur,3.3,Réparation,Karim,519.73,Usure
+M6,2025-02-08,Autres,7.8,Remplacement,Fatima,507.78,Surcharge
+M2,2023-07-25,Autres,6.6,Réparation,Fatima,421.21,Mauvais réglage
+M3,2024-02-11,Courroie,1.8,Remplacement,Fatima,699.03,Défaut matériel
+M1,2024-03-20,Moteur,7.6,Réparation,Said,543.44,Mauvais réglage
+M5,2023-03-25,Autres,2.3,Réparation,Youssef,939.5,Mauvais réglage
+M9,2024-10-05,Capteur,7.1,Réglage,Amina,122.46,Défaut matériel
+M3,2024-11-12,Moteur,1.4,Réparation,Said,885.3,Défaut matériel
+M6,2023-10-07,Autres,4.3,Réglage,Said,401.12,Usure
+M3,2024-04-09,Surchauffe,6.4,Réglage,Said,681.73,Usure
+M10,2024-07-23,Capteur,2.1,Réglage,Amina,786.96,Défaut matériel
+M5,2025-07-03,Courroie,3.2,Réglage,Youssef,236.05,Surcharge
+M3,2025-05-25,Autres,4.1,Remplacement,Karim,196.49,Usure
+M3,2025-12-15,Autres,1.5,Réglage,Karim,796.95,Mauvais réglage
+M4,2024-05-18,Moteur,5.7,Nettoyage,Amina,563.79,Défaut matériel
+M10,2023-01-24,Moteur,1.1,Réglage,Said,587.66,Usure
+M6,2025-09-02,Surchauffe,4.8,Remplacement,Youssef,294.97,Usure
+M6,2023-09-27,Moteur,6.2,Réglage,Amina,982.84,Surcharge
+M6,2025-09-24,Courroie,6.8,Remplacement,Youssef,965.29,Surcharge
+M2,2023-07-23,Surchauffe,3.9,Réparation,Karim,900.74,Usure
+M3,2024-07-15,Surchauffe,6.8,Nettoyage,Said,203.28,Mauvais réglage
+M10,2025-04-13,Moteur,6.4,Réparation,Fatima,659.7,Mauvais réglage
+M10,2025-12-11,Capteur,5.2,Réparation,Karim,875.78,Surcharge
+M1,2023-04-03,Surchauffe,6.1,Réparation,Fatima,475.53,Mauvais réglage
+M8,2025-02-25,Surchauffe,3.9,Réparation,Said,668.55,Surcharge
+M1,2024-10-20,Moteur,3.4,Réglage,Youssef,934.41,Défaut matériel
+M5,2025-02-13,Moteur,2.9,Réparation,Youssef,888.07,Mauvais réglage
+M4,2023-03-28,Courroie,2.6,Nettoyage,Fatima,904.01,Défaut matériel
+M7,2024-02-06,Capteur,3.9,Réglage,Fatima,541.01,Mauvais réglage
+M9,2024-02-17,Surchauffe,6.2,Nettoyage,Said,320.86,Usure
+M9,2023-06-09,Surchauffe,5.4,Nettoyage,Amina,563.46,Mauvais réglage
+M10,2025-09-04,Moteur,5.1,Réparation,Said,444.77,Défaut matériel
+M10,2023-03-12,Autres,5.7,Réparation,Youssef,956.69,Défaut matériel
+M3,2023-04-14,Moteur,4.8,Nettoyage,Amina,406.41,Mauvais réglage
+M2,2025-04-20,Surchauffe,6.2,Réglage,Amina,851.52,Usure
+M3,2023-09-01,Courroie,1.6,Réparation,Karim,710.15,Usure
+M7,2023-10-10,Moteur,3.5,Nettoyage,Amina,694.49,Mauvais réglage
+M5,2024-04-25,Capteur,3.6,Réglage,Karim,994.58,Mauvais réglage
+M4,2025-02-01,Capteur,6.2,Nettoyage,Karim,844.28,Défaut matériel
+M7,2024-10-21,Courroie,1.3,Réparation,Amina,963.73,Mauvais réglage
+M8,2024-11-21,Moteur,2.0,Remplacement,Karim,695.68,Usure
+M5,2023-09-08,Capteur,4.6,Réparation,Said,256.08,Usure
+M2,2025-09-15,Courroie,4.3,Réglage,Youssef,269.55,Mauvais réglage
+M3,2023-06-07,Autres,5.1,Nettoyage,Youssef,337.31,Mauvais réglage
+M8,2024-08-25,Courroie,2.3,Réglage,Fatima,501.31,Mauvais réglage
+M1,2023-02-22,Autres,6.6,Réglage,Youssef,183.91,Mauvais réglage
+M9,2024-07-02,Courroie,2.6,Nettoyage,Said,307.26,Défaut matériel
+M9,2024-09-27,Surchauffe,4.5,Nettoyage,Karim,782.31,Mauvais réglage
+M8,2024-12-21,Autres,5.8,Nettoyage,Fatima,697.05,Mauvais réglage
+M8,2024-01-13,Capteur,5.0,Nettoyage,Said,406.3,Surcharge
+M1,2023-06-10,Courroie,3.9,Réparation,Said,955.23,Défaut matériel
+M8,2025-08-17,Moteur,5.7,Réparation,Youssef,745.82,Usure
+M4,2025-06-20,Surchauffe,6.0,Nettoyage,Karim,203.29,Mauvais réglage
+M8,2023-04-21,Moteur,3.3,Remplacement,Said,352.71,Surcharge
+M8,2024-10-14,Capteur,2.0,Réparation,Fatima,362.85,Défaut matériel
+M8,2025-02-23,Capteur,4.4,Nettoyage,Karim,139.59,Usure
+M1,2023-02-24,Autres,2.8,Réparation,Amina,636.54,Défaut matériel
+M3,2024-02-11,Autres,4.4,Réglage,Karim,328.02,Usure
+M10,2025-07-15,Moteur,1.7,Remplacement,Karim,741.86,Mauvais réglage
+M9,2025-08-06,Capteur,2.9,Réparation,Fatima,888.91,Défaut matériel
+M7,2024-12-22,Surchauffe,1.9,Nettoyage,Karim,954.87,Mauvais réglage
+M2,2024-02-19,Surchauffe,4.3,Remplacement,Youssef,687.28,Mauvais réglage
+M4,2023-06-08,Courroie,7.6,Réglage,Amina,711.86,Défaut matériel
+M8,2023-05-24,Capteur,6.5,Réparation,Fatima,578.83,Défaut matériel
+M6,2023-04-22,Surchauffe,1.5,Réparation,Said,182.94,Usure
+M8,2024-02-21,Capteur,7.3,Remplacement,Amina,176.81,Usure
+M8,2024-07-13,Courroie,7.2,Réparation,Fatima,527.11,Usure
+M8,2023-03-10,Surchauffe,6.4,Réparation,Amina,550.41,Surcharge
+M1,2023-03-12,Courroie,6.3,Réglage,Youssef,895.22,Mauvais réglage
+M9,2024-12-24,Courroie,7.2,Nettoyage,Fatima,756.37,Défaut matériel
+M9,2023-12-02,Capteur,5.6,Nettoyage,Said,367.78,Défaut matériel
+M7,2024-12-14,Moteur,6.2,Nettoyage,Amina,179.35,Surcharge
+M7,2025-04-04,Courroie,6.4,Nettoyage,Amina,400.37,Mauvais réglage
+M5,2023-10-28,Autres,6.3,Réglage,Karim,666.59,Mauvais réglage
+M7,2024-04-01,Courroie,1.4,Nettoyage,Amina,230.58,Usure
+M1,2024-11-03,Moteur,3.7,Réparation,Said,516.09,Usure
+M5,2025-02-03,Surchauffe,2.4,Nettoyage,Amina,773.76,Surcharge
+M10,2024-06-06,Capteur,4.4,Réglage,Said,774.37,Défaut matériel
+M8,2024-08-23,Surchauffe,1.4,Réglage,Said,633.45,Usure
+M8,2023-03-23,Autres,5.1,Réparation,Said,789.02,Usure
+M6,2024-12-18,Courroie,2.3,Remplacement,Karim,691.17,Surcharge
+M4,2025-02-07,Courroie,7.9,Nettoyage,Amina,833.83,Défaut matériel
+M1,2023-02-08,Autres,4.0,Réglage,Karim,423.74,Défaut matériel
+M2,2025-03-24,Moteur,5.3,Réglage,Youssef,730.35,Mauvais réglage
+M2,2025-10-12,Moteur,6.6,Réparation,Amina,699.79,Mauvais réglage
+M6,2025-10-06,Surchauffe,2.1,Réglage,Youssef,721.72,Mauvais réglage
+M9,2024-11-01,Courroie,7.1,Nettoyage,Karim,805.45,Surcharge
+M3,2025-12-06,Capteur,5.3,Nettoyage,Fatima,955.47,Défaut matériel
+M9,2025-08-04,Capteur,3.6,Réglage,Said,684.03,Mauvais réglage
+M8,2023-07-17,Courroie,5.6,Réglage,Amina,349.28,Mauvais réglage
+M6,2023-08-22,Autres,2.1,Nettoyage,Karim,782.37,Usure
+M9,2024-12-22,Autres,1.3,Remplacement,Said,532.16,Défaut matériel
+M5,2024-01-24,Autres,5.7,Remplacement,Karim,388.05,Usure
+M2,2023-09-21,Courroie,4.9,Réparation,Said,542.64,Mauvais réglage
+M5,2024-07-03,Courroie,5.1,Réparation,Amina,274.48,Défaut matériel
+M5,2024-06-08,Capteur,7.6,Réglage,Amina,498.42,Défaut matériel
+M4,2023-08-19,Capteur,7.3,Nettoyage,Amina,927.89,Surcharge
+M9,2023-10-03,Capteur,3.4,Nettoyage,Amina,361.15,Défaut matériel
+M4,2024-06-02,Capteur,3.3,Remplacement,Said,360.81,Mauvais réglage
+M1,2024-08-05,Moteur,6.3,Réparation,Said,484.36,Usure
+M5,2024-10-16,Courroie,4.2,Réparation,Karim,614.93,Mauvais réglage
+M10,2023-10-18,Surchauffe,1.7,Réparation,Youssef,449.98,Mauvais réglage
+M4,2025-08-21,Surchauffe,4.7,Réparation,Fatima,555.37,Mauvais réglage
+M6,2024-02-08,Autres,1.8,Réglage,Fatima,337.55,Défaut matériel
+M2,2024-04-28,Capteur,5.0,Réglage,Amina,325.88,Défaut matériel
+M8,2024-04-15,Moteur,5.5,Nettoyage,Youssef,556.83,Défaut matériel
+M8,2024-07-27,Autres,1.5,Remplacement,Said,780.36,Défaut matériel
+M6,2024-08-19,Autres,7.1,Nettoyage,Youssef,757.42,Usure
+M1,2023-06-19,Surchauffe,1.1,Réglage,Karim,494.34,Défaut matériel
+M6,2025-06-10,Autres,1.2,Remplacement,Said,301.71,Mauvais réglage
+M3,2024-07-05,Courroie,7.0,Remplacement,Youssef,269.6,Surcharge
+M4,2023-07-11,Surchauffe,2.7,Nettoyage,Fatima,651.28,Défaut matériel
+M6,2025-11-18,Courroie,1.1,Nettoyage,Said,267.31,Usure
+M10,2024-01-17,Courroie,4.4,Réglage,Amina,553.82,Surcharge
+M8,2023-08-28,Capteur,7.6,Remplacement,Said,938.77,Défaut matériel
+M4,2025-11-27,Capteur,4.6,Réparation,Amina,470.72,Défaut matériel
+M10,2024-09-26,Surchauffe,3.3,Remplacement,Karim,717.51,Mauvais réglage
+M5,2024-11-02,Capteur,4.1,Réparation,Youssef,950.64,Usure
+M2,2023-08-20,Capteur,2.6,Nettoyage,Amina,420.12,Défaut matériel
+M9,2023-06-10,Moteur,3.7,Réglage,Said,373.86,Usure
+M6,2024-08-04,Courroie,1.5,Réglage,Youssef,625.65,Défaut matériel
+M3,2024-11-11,Autres,4.9,Réparation,Karim,984.0,Mauvais réglage
+M1,2024-06-23,Capteur,3.2,Remplacement,Fatima,276.22,Défaut matériel
+M6,2025-11-16,Autres,2.0,Nettoyage,Said,951.0,Usure
+M8,2025-12-01,Capteur,3.4,Remplacement,Amina,645.41,Défaut matériel
+M3,2023-03-18,Courroie,1.7,Nettoyage,Said,504.91,Usure
+M3,2024-09-11,Autres,2.6,Nettoyage,Karim,359.91,Surcharge
+M5,2023-04-16,Capteur,1.7,Remplacement,Amina,719.64,Usure
+M9,2024-09-07,Autres,1.2,Réglage,Said,283.77,Défaut matériel
+M9,2023-07-15,Autres,2.1,Réparation,Amina,402.37,Défaut matériel
+M1,2024-08-16,Surchauffe,3.6,Réglage,Amina,806.2,Mauvais réglage
+M5,2023-01-11,Courroie,7.6,Réparation,Youssef,418.41,Usure
+M5,2023-03-11,Autres,5.8,Remplacement,Karim,665.36,Mauvais réglage
+M6,2025-08-05,Courroie,2.5,Réglage,Fatima,805.77,Surcharge
+M1,2025-01-05,Moteur,3.0,Remplacement,Fatima,177.08,Usure
+M8,2025-05-19,Courroie,2.7,Réparation,Karim,570.7,Usure
+M7,2025-02-03,Surchauffe,3.4,Réparation,Amina,180.4,Mauvais réglage
+M1,2025-05-15,Surchauffe,5.6,Remplacement,Karim,137.29,Mauvais réglage
+M6,2025-05-02,Autres,7.6,Nettoyage,Youssef,663.57,Usure
+M7,2025-10-22,Courroie,1.3,Réglage,Said,810.67,Surcharge
+M6,2024-11-12,Autres,6.2,Remplacement,Youssef,809.66,Défaut matériel
+M4,2025-04-13,Capteur,3.1,Nettoyage,Fatima,426.54,Usure
+M8,2023-09-24,Surchauffe,2.5,Remplacement,Fatima,884.06,Surcharge
+M5,2024-11-21,Autres,7.1,Réparation,Amina,732.11,Usure
+M1,2025-01-09,Autres,3.5,Remplacement,Fatima,731.33,Défaut matériel
+M8,2025-03-27,Surchauffe,3.2,Remplacement,Said,438.83,Défaut matériel
+M1,2025-10-17,Capteur,7.6,Remplacement,Amina,842.17,Usure
+M7,2024-09-18,Moteur,1.7,Nettoyage,Said,364.65,Usure
+M3,2025-02-12,Courroie,1.4,Réglage,Fatima,335.0,Défaut matériel
+M7,2023-06-15,Capteur,2.6,Réglage,Youssef,479.53,Surcharge
+M8,2024-10-17,Capteur,4.2,Nettoyage,Said,419.19,Défaut matériel
+M10,2024-08-09,Autres,3.5,Remplacement,Said,682.81,Défaut matériel
+M2,2024-04-21,Surchauffe,2.5,Réparation,Karim,939.55,Usure
+M5,2023-07-27,Surchauffe,1.6,Réparation,Karim,906.99,Mauvais réglage
+M1,2024-05-25,Capteur,1.7,Réparation,Fatima,355.54,Mauvais réglage
+M9,2025-11-05,Courroie,5.2,Réglage,Fatima,331.26,Usure
+M4,2025-08-18,Autres,1.3,Réparation,Amina,221.53,Surcharge
+M9,2023-08-08,Surchauffe,5.2,Nettoyage,Fatima,909.06,Défaut matériel
+M7,2023-12-26,Moteur,4.4,Réglage,Amina,335.38,Mauvais réglage
+M1,2023-07-23,Surchauffe,1.9,Nettoyage,Fatima,239.43,Mauvais réglage
+M6,2024-02-18,Courroie,2.4,Nettoyage,Karim,287.04,Mauvais réglage
+M2,2025-06-12,Moteur,1.5,Réglage,Fatima,936.76,Mauvais réglage
+M3,2024-06-01,Autres,3.6,Remplacement,Said,914.26,Surcharge
+M1,2024-03-16,Courroie,1.5,Nettoyage,Youssef,376.17,Surcharge
+M10,2023-08-17,Capteur,7.6,Nettoyage,Amina,522.88,Défaut matériel
+M4,2023-03-14,Courroie,1.9,Réparation,Amina,362.28,Mauvais réglage
+M9,2025-02-19,Surchauffe,5.4,Réparation,Said,972.58,Défaut matériel
+M5,2025-11-05,Surchauffe,7.8,Réglage,Said,649.52,Usure
+M4,2024-08-12,Courroie,5.5,Nettoyage,Amina,467.98,Mauvais réglage
+M10,2023-11-11,Courroie,2.6,Réparation,Said,288.31,Surcharge
+M1,2023-02-13,Capteur,1.9,Remplacement,Amina,505.17,Usure
+M6,2023-05-02,Autres,7.4,Nettoyage,Youssef,279.74,Mauvais réglage
+M2,2025-01-04,Surchauffe,3.8,Remplacement,Youssef,324.58,Surcharge
+M9,2023-02-28,Autres,5.2,Réglage,Youssef,164.77,Mauvais réglage
+M5,2025-04-19,Moteur,4.4,Réglage,Amina,321.46,Usure
+M6,2025-02-01,Courroie,5.7,Remplacement,Said,478.22,Surcharge
+M4,2025-07-12,Courroie,1.4,Remplacement,Youssef,469.36,Surcharge
+M3,2024-08-18,Capteur,5.5,Nettoyage,Fatima,194.29,Surcharge
+M7,2025-02-26,Surchauffe,6.4,Remplacement,Amina,212.84,Usure
+M9,2024-01-03,Courroie,3.3,Réparation,Karim,455.22,Usure
+M1,2025-10-16,Capteur,5.5,Réparation,Said,456.09,Mauvais réglage
+M1,2025-04-14,Courroie,4.9,Nettoyage,Karim,361.82,Défaut matériel
+M4,2024-04-02,Courroie,4.7,Remplacement,Fatima,778.99,Usure
+M4,2025-01-20,Capteur,7.3,Remplacement,Karim,407.16,Défaut matériel
+M3,2024-01-16,Capteur,1.1,Réglage,Amina,356.87,Mauvais réglage
+M8,2025-09-23,Autres,4.7,Nettoyage,Karim,307.93,Défaut matériel
+M4,2025-02-11,Capteur,7.6,Nettoyage,Youssef,221.67,Défaut matériel
+M3,2024-05-02,Autres,1.8,Nettoyage,Said,715.54,Mauvais réglage
+M8,2024-05-08,Autres,5.5,Réparation,Fatima,424.91,Mauvais réglage
+M8,2025-01-02,Autres,4.3,Nettoyage,Fatima,778.17,Surcharge
+M7,2024-10-27,Courroie,4.7,Réglage,Fatima,980.26,Mauvais réglage
+M1,2024-06-18,Courroie,2.7,Réglage,Karim,112.25,Défaut matériel
+M8,2023-10-19,Capteur,1.4,Remplacement,Amina,810.59,Usure
+M2,2023-06-19,Moteur,5.9,Réglage,Youssef,288.53,Usure
+M6,2025-07-19,Moteur,3.9,Remplacement,Karim,175.06,Défaut matériel
+M1,2023-10-22,Capteur,2.4,Réglage,Youssef,106.42,Défaut matériel
+M3,2023-07-02,Capteur,5.8,Remplacement,Amina,768.92,Surcharge
+M7,2024-04-08,Moteur,1.8,Réglage,Karim,913.73,Surcharge
+M4,2023-01-03,Courroie,4.3,Remplacement,Said,814.56,Mauvais réglage
+M6,2024-12-09,Moteur,1.3,Réglage,Karim,598.67,Usure
+M1,2024-07-25,Capteur,4.1,Réglage,Youssef,822.31,Surcharge
+M6,2025-06-03,Courroie,4.3,Nettoyage,Fatima,263.91,Usure
+M4,2025-01-05,Autres,5.9,Réparation,Amina,994.82,Usure
+M7,2024-06-24,Capteur,4.0,Réglage,Said,250.85,Surcharge
+M6,2024-08-15,Surchauffe,3.0,Remplacement,Fatima,523.74,Défaut matériel
+M6,2023-03-05,Autres,6.0,Réparation,Fatima,246.89,Usure
+M6,2025-08-17,Autres,5.4,Remplacement,Amina,834.1,Surcharge
+M2,2024-02-11,Moteur,7.1,Remplacement,Karim,332.25,Mauvais réglage
+M2,2023-05-23,Surchauffe,6.6,Réglage,Fatima,969.54,Défaut matériel
+M4,2023-11-07,Courroie,4.1,Réglage,Karim,616.03,Usure
+M7,2024-10-11,Surchauffe,3.2,Remplacement,Said,416.7,Usure
+M4,2024-01-04,Moteur,5.5,Réparation,Amina,894.64,Usure
+M8,2023-07-04,Moteur,2.4,Remplacement,Karim,704.89,Défaut matériel
+M4,2025-04-28,Autres,1.6,Remplacement,Amina,246.1,Surcharge
+M6,2024-10-13,Courroie,3.5,Réglage,Karim,127.59,Usure
+M6,2024-03-25,Moteur,3.8,Réparation,Said,837.91,Surcharge
+M5,2023-02-14,Capteur,7.1,Réglage,Youssef,372.66,Usure
+M2,2024-08-11,Courroie,7.1,Réparation,Youssef,347.28,Surcharge
+M3,2023-01-21,Surchauffe,4.0,Nettoyage,Karim,816.94,Défaut matériel
+M9,2024-07-02,Autres,2.6,Réglage,Karim,665.12,Mauvais réglage
+M10,2023-04-09,Courroie,7.4,Réparation,Fatima,232.18,Défaut matériel
+M5,2024-05-11,Capteur,2.3,Remplacement,Amina,776.86,Mauvais réglage
+M10,2024-01-14,Surchauffe,1.2,Réglage,Karim,186.52,Surcharge
+M8,2025-02-08,Surchauffe,5.5,Réparation,Youssef,669.46,Usure
+M8,2025-10-28,Courroie,5.8,Réparation,Said,852.05,Mauvais réglage
+M8,2025-07-02,Autres,1.8,Nettoyage,Karim,346.86,Mauvais réglage
+M5,2025-05-16,Courroie,3.1,Nettoyage,Youssef,340.72,Surcharge
+M6,2025-11-28,Capteur,5.3,Réparation,Said,530.03,Usure
+M7,2025-06-05,Surchauffe,6.9,Nettoyage,Karim,699.18,Défaut matériel
+M6,2023-05-01,Capteur,6.6,Réparation,Karim,174.35,Usure
+M9,2024-10-13,Courroie,4.9,Réglage,Karim,763.98,Mauvais réglage
+M3,2025-01-11,Surchauffe,6.1,Remplacement,Said,415.09,Surcharge
+M9,2023-09-09,Capteur,4.1,Réparation,Amina,554.79,Défaut matériel
+M4,2025-10-20,Capteur,5.4,Réglage,Karim,483.42,Usure
+M2,2025-06-28,Courroie,2.9,Nettoyage,Amina,561.52,Usure
+M9,2025-12-24,Courroie,5.6,Nettoyage,Karim,785.92,Surcharge
+M2,2024-10-11,Autres,5.2,Nettoyage,Youssef,288.7,Usure
+M3,2024-07-16,Surchauffe,4.5,Remplacement,Youssef,567.19,Mauvais réglage
+M7,2023-07-06,Moteur,5.8,Réglage,Karim,270.53,Surcharge
+M8,2025-12-16,Capteur,2.3,Réglage,Amina,309.27,Défaut matériel
+M5,2023-02-22,Capteur,7.3,Remplacement,Said,327.37,Usure
+M8,2025-04-16,Surchauffe,2.8,Réparation,Karim,655.85,Mauvais réglage
+M3,2024-01-28,Autres,5.6,Nettoyage,Fatima,303.6,Usure
+M10,2024-06-23,Autres,6.9,Réparation,Amina,647.02,Surcharge
+M7,2024-11-26,Capteur,2.3,Réparation,Said,413.41,Surcharge
+M4,2025-12-21,Moteur,1.7,Nettoyage,Said,233.73,Surcharge
+M6,2023-02-22,Moteur,7.2,Nettoyage,Youssef,145.65,Usure
+M8,2024-04-12,Moteur,7.6,Nettoyage,Fatima,464.51,Mauvais réglage
+M9,2024-12-24,Capteur,7.1,Nettoyage,Youssef,840.5,Surcharge
+M3,2023-03-02,Capteur,4.9,Réglage,Amina,153.31,Mauvais réglage
+M4,2025-02-08,Autres,4.4,Réglage,Said,890.18,Surcharge
+M8,2025-03-04,Moteur,2.6,Réparation,Said,267.22,Défaut matériel
+M1,2025-01-20,Autres,8.0,Nettoyage,Amina,160.85,Usure
+M10,2023-02-15,Surchauffe,6.9,Réglage,Said,590.02,Surcharge
+M9,2023-04-15,Courroie,5.5,Nettoyage,Said,210.97,Surcharge
+M4,2024-01-22,Surchauffe,2.8,Réparation,Youssef,375.58,Mauvais réglage
+M6,2024-01-15,Moteur,7.0,Remplacement,Fatima,922.39,Mauvais réglage
+M6,2025-09-17,Capteur,1.9,Réglage,Said,751.19,Usure
+M9,2023-11-18,Autres,6.7,Nettoyage,Said,993.19,Usure
+M3,2025-09-09,Autres,4.4,Nettoyage,Fatima,563.9,Mauvais réglage
+M4,2024-02-12,Surchauffe,4.0,Remplacement,Fatima,895.83,Surcharge
+M4,2025-01-15,Courroie,6.4,Réparation,Amina,712.96,Défaut matériel
+M1,2025-11-23,Capteur,3.8,Remplacement,Karim,615.76,Usure
+M7,2025-02-04,Autres,7.9,Réglage,Fatima,769.21,Usure
+M10,2023-08-07,Capteur,6.1,Réglage,Karim,307.33,Défaut matériel
+M10,2023-08-01,Capteur,6.4,Réparation,Said,667.92,Surcharge
+M1,2024-02-26,Capteur,4.8,Remplacement,Karim,358.12,Mauvais réglage
+M9,2023-01-16,Moteur,2.0,Réparation,Youssef,845.31,Défaut matériel
+M5,2023-05-14,Courroie,4.9,Nettoyage,Youssef,424.17,Mauvais réglage
+M1,2024-06-27,Autres,1.9,Remplacement,Fatima,744.85,Surcharge
+M7,2024-10-21,Moteur,1.8,Réparation,Youssef,915.87,Usure
+M10,2024-08-18,Autres,6.7,Remplacement,Youssef,382.4,Mauvais réglage
+M1,2025-02-19,Courroie,5.2,Réglage,Fatima,389.65,Mauvais réglage
+M8,2025-12-24,Moteur,4.8,Réparation,Fatima,364.98,Surcharge
+M1,2024-05-02,Surchauffe,7.5,Remplacement,Fatima,930.92,Mauvais réglage
+M7,2024-05-01,Capteur,4.9,Remplacement,Karim,756.41,Défaut matériel
+M6,2025-12-20,Moteur,5.8,Remplacement,Karim,301.67,Mauvais réglage
+M2,2024-01-12,Autres,6.2,Remplacement,Amina,667.07,Usure
+M10,2023-05-26,Courroie,6.5,Réglage,Fatima,567.23,Usure
+M1,2023-01-10,Surchauffe,1.3,Réparation,Fatima,864.33,Mauvais réglage
+M10,2024-07-17,Surchauffe,6.5,Réparation,Fatima,253.36,Défaut matériel
+M1,2024-09-19,Surchauffe,5.2,Réparation,Amina,221.1,Défaut matériel
+M7,2023-02-07,Courroie,4.7,Réglage,Karim,180.26,Usure
+M3,2025-02-26,Surchauffe,6.7,Nettoyage,Fatima,153.89,Usure
+M6,2025-06-20,Capteur,1.2,Remplacement,Fatima,946.07,Défaut matériel
+M2,2024-05-03,Surchauffe,5.4,Réparation,Amina,871.08,Défaut matériel
+M4,2023-11-02,Capteur,5.8,Nettoyage,Youssef,209.48,Défaut matériel
+M7,2024-01-06,Courroie,3.5,Remplacement,Amina,558.91,Mauvais réglage
+M5,2024-10-14,Autres,3.0,Nettoyage,Fatima,714.87,Usure
+M9,2023-03-17,Moteur,7.3,Remplacement,Youssef,877.55,Surcharge
+M5,2025-11-22,Courroie,3.0,Nettoyage,Said,511.8,Mauvais réglage
+M10,2023-12-28,Surchauffe,2.9,Réglage,Karim,900.16,Mauvais réglage
+M7,2024-09-09,Capteur,7.3,Nettoyage,Fatima,604.31,Défaut matériel
+M9,2023-11-16,Courroie,6.3,Réparation,Amina,476.26,Mauvais réglage
+M10,2024-04-15,Surchauffe,4.7,Nettoyage,Fatima,870.82,Mauvais réglage
+M2,2025-02-28,Moteur,4.8,Réparation,Youssef,862.01,Défaut matériel
+M5,2024-07-26,Courroie,4.2,Réparation,Karim,722.87,Usure
+M10,2023-10-07,Capteur,7.3,Réparation,Fatima,213.56,Surcharge
+M2,2024-07-28,Moteur,5.1,Réglage,Amina,776.82,Défaut matériel
+M6,2025-02-01,Courroie,5.4,Nettoyage,Said,686.91,Défaut matériel
+M8,2023-11-10,Courroie,7.0,Réparation,Amina,925.03,Usure
+M5,2023-06-26,Courroie,4.2,Remplacement,Youssef,972.34,Usure
+M2,2024-06-10,Surchauffe,2.8,Remplacement,Said,722.77,Mauvais réglage
+M8,2024-03-12,Capteur,3.7,Réparation,Fatima,954.8,Mauvais réglage
+M9,2024-06-11,Courroie,6.1,Réparation,Amina,289.47,Mauvais réglage
+M5,2023-01-23,Surchauffe,7.3,Remplacement,Said,908.65,Surcharge
+M1,2025-08-06,Courroie,4.3,Nettoyage,Said,662.52,Surcharge
+M8,2024-10-11,Autres,5.7,Réparation,Karim,952.08,Mauvais réglage
+M3,2025-11-14,Moteur,6.7,Nettoyage,Amina,932.61,Usure
+M3,2024-07-22,Surchauffe,7.1,Nettoyage,Said,966.17,Mauvais réglage
+M4,2025-06-02,Courroie,1.4,Réparation,Karim,489.12,Surcharge
+M8,2024-08-22,Capteur,4.7,Réglage,Amina,195.55,Mauvais réglage
+M10,2023-10-04,Courroie,3.7,Réglage,Karim,869.08,Défaut matériel
+M3,2024-10-06,Moteur,3.4,Réparation,Said,166.56,Défaut matériel
+M10,2024-09-02,Autres,4.4,Nettoyage,Youssef,148.12,Usure
+M1,2025-02-07,Surchauffe,2.5,Remplacement,Youssef,287.65,Défaut matériel
+M5,2023-03-27,Autres,7.9,Nettoyage,Fatima,661.17,Usure
+M9,2023-02-23,Autres,3.7,Réglage,Said,651.86,Usure
+M3,2025-05-14,Moteur,7.3,Nettoyage,Karim,991.83,Surcharge
+M9,2024-10-04,Surchauffe,2.8,Réglage,Karim,979.56,Surcharge
+M1,2023-04-19,Moteur,6.7,Réglage,Said,956.85,Défaut matériel
+M7,2025-10-09,Autres,2.1,Réglage,Youssef,601.86,Surcharge
+M8,2024-11-24,Surchauffe,7.2,Nettoyage,Said,550.82,Défaut matériel
+M4,2024-12-16,Autres,2.7,Réglage,Karim,761.6,Usure
+M3,2024-08-26,Moteur,2.0,Réparation,Said,283.91,Usure
+M7,2023-06-02,Surchauffe,7.6,Réglage,Youssef,242.15,Défaut matériel
+M10,2025-03-09,Surchauffe,7.0,Nettoyage,Amina,229.22,Défaut matériel
+M8,2025-04-24,Autres,4.6,Réglage,Said,171.33,Surcharge
+M9,2024-08-06,Courroie,4.5,Réglage,Amina,809.61,Défaut matériel
+M10,2023-01-10,Courroie,1.1,Nettoyage,Said,439.44,Défaut matériel
+M6,2023-12-10,Surchauffe,1.7,Réparation,Youssef,166.88,Usure
+M3,2023-05-01,Moteur,2.8,Réparation,Karim,610.1,Surcharge
+M10,2024-04-26,Courroie,5.8,Remplacement,Youssef,480.1,Défaut matériel
+M9,2023-05-20,Surchauffe,3.8,Réglage,Karim,171.05,Surcharge
+M6,2023-02-22,Moteur,1.6,Réglage,Said,371.93,Défaut matériel
+M8,2023-02-27,Moteur,2.5,Remplacement,Karim,988.39,Défaut matériel
+M5,2025-04-03,Courroie,7.3,Réglage,Amina,956.42,Défaut matériel
+M4,2023-03-04,Courroie,5.9,Nettoyage,Amina,291.77,Défaut matériel
+M1,2023-01-04,Surchauffe,5.6,Nettoyage,Amina,240.84,Surcharge
+M3,2025-11-09,Moteur,1.1,Réparation,Karim,287.84,Défaut matériel
+M6,2024-12-19,Courroie,4.0,Remplacement,Youssef,923.99,Mauvais réglage
+M2,2024-04-11,Moteur,4.8,Réglage,Amina,175.11,Usure
+M1,2024-06-02,Surchauffe,1.6,Nettoyage,Karim,736.96,Mauvais réglage
+M10,2025-07-02,Capteur,6.8,Réparation,Amina,640.38,Surcharge
+M5,2024-08-20,Moteur,4.1,Réglage,Fatima,921.49,Mauvais réglage
+M7,2023-06-16,Surchauffe,3.4,Nettoyage,Youssef,378.65,Mauvais réglage
+M1,2024-10-09,Autres,5.6,Réparation,Karim,802.32,Défaut matériel
+M6,2024-02-24,Courroie,4.6,Réparation,Karim,814.0,Mauvais réglage
+M9,2025-02-13,Autres,1.4,Remplacement,Karim,610.77,Mauvais réglage
+M6,2024-01-18,Courroie,2.2,Réparation,Fatima,898.83,Mauvais réglage
+M5,2025-05-03,Surchauffe,7.3,Nettoyage,Said,975.63,Mauvais réglage
+M3,2025-07-16,Moteur,6.5,Remplacement,Fatima,863.24,Usure
+M6,2023-04-15,Courroie,5.7,Nettoyage,Amina,558.86,Défaut matériel
+M1,2024-03-09,Autres,1.4,Remplacement,Fatima,234.88,Usure
+M8,2024-11-18,Moteur,1.6,Remplacement,Amina,581.39,Mauvais réglage
+M4,2024-06-19,Capteur,4.3,Réparation,Amina,470.0,Usure
+M1,2024-05-04,Moteur,7.1,Réglage,Karim,126.37,Défaut matériel
+M7,2023-02-23,Courroie,6.8,Réglage,Karim,739.32,Usure
+M1,2024-08-18,Autres,2.8,Réglage,Fatima,426.33,Défaut matériel
+M2,2025-11-14,Courroie,7.4,Remplacement,Amina,485.08,Surcharge
+M2,2025-12-06,Capteur,6.6,Nettoyage,Fatima,627.58,Usure
+M5,2023-01-21,Capteur,5.1,Remplacement,Fatima,242.6,Surcharge
+M6,2025-08-18,Courroie,2.6,Réparation,Fatima,806.63,Usure
+M9,2025-10-04,Moteur,2.2,Réglage,Said,625.6,Mauvais réglage
+M5,2025-08-21,Courroie,7.1,Remplacement,Karim,258.73,Surcharge
+M6,2024-03-02,Courroie,4.7,Remplacement,Karim,873.73,Usure
+M3,2024-08-27,Moteur,5.6,Réparation,Youssef,745.92,Défaut matériel
+M4,2024-01-08,Surchauffe,7.3,Réglage,Said,195.05,Usure
+M7,2024-07-25,Courroie,1.5,Nettoyage,Said,465.28,Mauvais réglage
+M9,2024-12-07,Moteur,3.7,Nettoyage,Fatima,319.12,Défaut matériel
+M9,2024-04-05,Autres,6.7,Nettoyage,Youssef,393.6,Mauvais réglage
+M6,2023-09-01,Surchauffe,3.7,Remplacement,Said,495.27,Défaut matériel
+M4,2025-09-16,Autres,7.4,Nettoyage,Fatima,902.83,Usure
+M1,2025-01-14,Autres,3.7,Réglage,Said,358.48,Surcharge
+M10,2023-01-25,Courroie,1.0,Remplacement,Youssef,731.41,Mauvais réglage
+M7,2023-12-18,Courroie,5.3,Remplacement,Amina,348.33,Surcharge
+M8,2024-10-26,Surchauffe,1.0,Réparation,Said,979.77,Mauvais réglage
+M9,2023-01-09,Capteur,4.3,Réparation,Said,619.25,Surcharge
+M8,2024-05-12,Capteur,1.8,Remplacement,Karim,388.58,Usure
+M2,2025-09-11,Surchauffe,7.4,Réglage,Amina,288.78,Usure
+M9,2024-03-16,Courroie,3.2,Nettoyage,Said,248.15,Mauvais réglage
+M1,2024-03-12,Capteur,3.2,Remplacement,Fatima,724.12,Mauvais réglage
+M2,2024-06-02,Surchauffe,1.8,Nettoyage,Fatima,521.3,Usure
+M8,2025-09-16,Surchauffe,5.7,Remplacement,Fatima,209.88,Usure
+M9,2025-05-03,Surchauffe,4.6,Remplacement,Fatima,191.65,Usure
+M1,2024-05-21,Surchauffe,7.5,Réglage,Karim,398.1,Surcharge
+M4,2023-08-14,Capteur,5.9,Réparation,Said,614.57,Mauvais réglage
+M8,2023-09-15,Capteur,6.9,Remplacement,Said,942.11,Mauvais réglage
+M3,2023-10-02,Moteur,3.6,Réglage,Amina,278.83,Usure
+M8,2023-03-10,Moteur,6.8,Nettoyage,Amina,284.66,Mauvais réglage
+M10,2023-03-21,Moteur,3.2,Nettoyage,Amina,450.43,Mauvais réglage
+M4,2024-05-07,Surchauffe,7.8,Nettoyage,Karim,692.01,Mauvais réglage
+M10,2024-06-14,Moteur,4.9,Réglage,Karim,778.73,Mauvais réglage
+M2,2024-07-23,Moteur,2.6,Réparation,Said,595.53,Défaut matériel
+M7,2023-04-22,Capteur,6.3,Nettoyage,Karim,353.07,Surcharge
+M4,2023-12-17,Capteur,4.7,Remplacement,Said,447.93,Surcharge
+M6,2023-10-24,Capteur,6.0,Réparation,Karim,332.66,Usure
+M5,2023-09-14,Courroie,7.5,Réglage,Amina,136.09,Défaut matériel
+M3,2024-01-24,Surchauffe,2.1,Réparation,Said,645.38,Défaut matériel
+M4,2024-09-01,Courroie,3.5,Nettoyage,Said,152.1,Surcharge
+M4,2023-01-19,Moteur,4.2,Nettoyage,Fatima,517.73,Usure
+M8,2024-02-17,Courroie,5.8,Nettoyage,Karim,102.86,Défaut matériel
+M4,2024-08-17,Capteur,7.5,Remplacement,Amina,590.0,Défaut matériel
+M1,2023-07-25,Courroie,7.2,Remplacement,Youssef,537.71,Usure
+M5,2025-03-12,Surchauffe,2.2,Réparation,Fatima,553.22,Usure
+M7,2025-02-22,Capteur,4.1,Nettoyage,Fatima,190.78,Défaut matériel
+M10,2024-01-07,Autres,1.9,Remplacement,Said,290.92,Usure
+M10,2025-06-24,Autres,2.8,Réparation,Said,616.16,Mauvais réglage
+M9,2023-04-09,Surchauffe,3.9,Réparation,Amina,924.39,Surcharge
+M7,2023-03-04,Autres,2.5,Remplacement,Amina,732.91,Défaut matériel
+M5,2023-06-21,Autres,5.2,Réparation,Fatima,300.31,Usure
+M9,2024-12-18,Capteur,1.1,Réparation,Said,255.68,Mauvais réglage
+M4,2024-02-05,Autres,3.9,Réparation,Karim,358.6,Usure
+M6,2024-08-18,Moteur,7.7,Nettoyage,Amina,280.26,Usure
+M5,2023-02-27,Surchauffe,4.3,Réparation,Youssef,343.09,Mauvais réglage
+M5,2023-04-27,Autres,1.8,Nettoyage,Amina,303.43,Usure
+M6,2025-10-16,Capteur,3.9,Remplacement,Said,378.02,Usure
+M8,2025-05-23,Surchauffe,7.4,Remplacement,Karim,398.85,Défaut matériel
+M5,2024-07-05,Autres,1.8,Réparation,Said,695.98,Défaut matériel
+M6,2025-03-11,Surchauffe,7.3,Nettoyage,Fatima,400.69,Défaut matériel
+M7,2024-03-20,Autres,2.3,Remplacement,Amina,245.82,Défaut matériel
+M8,2025-05-02,Moteur,4.0,Remplacement,Fatima,990.15,Mauvais réglage
+M2,2023-09-06,Capteur,4.1,Réparation,Said,573.05,Surcharge
+M10,2023-04-27,Autres,4.8,Réparation,Youssef,239.62,Mauvais réglage
+M7,2025-09-24,Autres,3.9,Réparation,Amina,984.66,Usure
+M4,2024-07-12,Autres,4.5,Remplacement,Said,922.52,Surcharge
+M8,2025-02-23,Autres,3.1,Nettoyage,Amina,231.09,Surcharge
+M6,2023-11-13,Moteur,1.2,Nettoyage,Amina,471.33,Mauvais réglage
+M7,2025-01-19,Moteur,6.6,Réglage,Said,804.87,Usure
+M1,2023-10-04,Surchauffe,4.0,Réglage,Fatima,405.84,Mauvais réglage
+M4,2023-01-04,Autres,4.3,Réglage,Amina,217.26,Défaut matériel
+M5,2025-12-06,Moteur,6.6,Réglage,Youssef,839.21,Surcharge
+M6,2025-11-18,Courroie,5.0,Nettoyage,Karim,549.17,Surcharge
+M3,2023-07-13,Courroie,3.6,Remplacement,Karim,774.54,Usure
+M9,2025-11-13,Moteur,6.3,Remplacement,Amina,183.89,Mauvais réglage
+M1,2025-03-12,Moteur,1.2,Réparation,Fatima,258.53,Défaut matériel
+M7,2024-04-10,Surchauffe,6.8,Réparation,Fatima,226.13,Défaut matériel
+M6,2023-06-07,Courroie,3.0,Réglage,Karim,173.52,Défaut matériel
+M1,2023-09-12,Surchauffe,5.9,Nettoyage,Said,583.74,Défaut matériel
+M6,2024-10-21,Courroie,7.3,Réglage,Said,938.79,Surcharge
+M1,2024-12-03,Surchauffe,5.7,Nettoyage,Said,763.98,Surcharge
+M4,2023-02-13,Surchauffe,7.5,Nettoyage,Karim,919.26,Surcharge
+M3,2025-08-15,Surchauffe,5.9,Réglage,Youssef,305.11,Surcharge
+M10,2025-05-12,Autres,5.8,Réparation,Amina,723.91,Mauvais réglage
+M1,2024-08-15,Courroie,1.9,Réglage,Said,532.74,Surcharge
+M5,2023-10-26,Courroie,1.1,Remplacement,Karim,128.97,Défaut matériel
+M9,2024-05-06,Capteur,5.3,Nettoyage,Karim,441.34,Mauvais réglage
+M3,2023-03-17,Surchauffe,1.9,Réglage,Said,522.85,Usure
+M3,2024-09-19,Surchauffe,1.5,Réglage,Amina,607.38,Usure
+M6,2025-12-09,Surchauffe,2.6,Réparation,Fatima,965.13,Surcharge
+M4,2024-04-09,Courroie,2.9,Remplacement,Said,794.96,Défaut matériel
+M4,2023-12-08,Autres,5.1,Réglage,Youssef,390.41,Défaut matériel
+M9,2025-11-09,Autres,7.0,Remplacement,Amina,288.34,Usure
+M3,2025-03-03,Moteur,5.5,Nettoyage,Amina,377.71,Surcharge
+M2,2025-09-03,Surchauffe,3.2,Réparation,Said,554.7,Surcharge
+M8,2025-08-02,Surchauffe,4.4,Remplacement,Amina,122.62,Mauvais réglage
+M1,2025-07-05,Capteur,3.7,Nettoyage,Amina,464.2,Mauvais réglage
+M4,2023-07-11,Moteur,4.2,Réparation,Said,572.75,Mauvais réglage
+M8,2023-08-17,Capteur,5.4,Réparation,Said,932.15,Défaut matériel
+M8,2025-06-06,Capteur,5.9,Réparation,Youssef,449.92,Usure
+M9,2024-06-09,Autres,2.9,Nettoyage,Said,923.03,Défaut matériel
+M10,2023-09-06,Capteur,3.8,Remplacement,Karim,477.47,Mauvais réglage
+M2,2024-10-24,Capteur,5.0,Réparation,Fatima,501.7,Défaut matériel
+M2,2024-11-11,Capteur,6.1,Nettoyage,Karim,978.42,Défaut matériel
+M10,2023-02-26,Surchauffe,5.7,Réparation,Fatima,907.07,Usure
+M10,2024-12-04,Courroie,7.0,Réglage,Karim,228.25,Usure
+M1,2023-03-16,Surchauffe,4.7,Réglage,Said,703.29,Défaut matériel
+M1,2023-06-04,Surchauffe,5.5,Nettoyage,Said,907.73,Usure
+M7,2023-02-20,Surchauffe,5.9,Nettoyage,Amina,851.22,Défaut matériel
+M10,2023-03-24,Autres,4.9,Nettoyage,Amina,358.29,Défaut matériel
+M3,2023-07-17,Courroie,5.7,Réglage,Youssef,179.96,Mauvais réglage
+M3,2025-05-25,Autres,6.6,Réparation,Youssef,873.32,Usure
+M8,2024-08-20,Moteur,2.3,Réglage,Fatima,325.99,Mauvais réglage
+M2,2025-12-19,Surchauffe,3.6,Réglage,Said,974.08,Défaut matériel
+M3,2025-05-22,Surchauffe,2.4,Remplacement,Said,953.07,Surcharge
+M8,2024-11-03,Courroie,6.9,Nettoyage,Amina,575.15,Usure
+M8,2023-06-22,Autres,1.8,Nettoyage,Fatima,179.81,Usure
+M1,2023-02-21,Courroie,4.7,Nettoyage,Karim,529.18,Usure
+M5,2024-12-12,Moteur,3.9,Réparation,Amina,755.38,Défaut matériel
+M1,2023-12-11,Surchauffe,1.4,Nettoyage,Fatima,995.33,Usure
+M1,2023-07-21,Courroie,3.6,Réparation,Fatima,515.29,Défaut matériel
+M7,2024-12-15,Capteur,7.2,Réparation,Amina,976.74,Usure
+M1,2024-01-14,Autres,4.6,Remplacement,Youssef,317.17,Usure
+M10,2024-07-25,Moteur,5.9,Réglage,Amina,672.82,Défaut matériel
+M2,2024-06-08,Courroie,6.9,Nettoyage,Karim,389.78,Mauvais réglage
+M3,2025-10-01,Autres,7.7,Remplacement,Amina,234.04,Surcharge
+M1,2025-11-13,Moteur,1.8,Réparation,Karim,872.76,Usure
+M7,2024-02-13,Capteur,5.2,Réparation,Amina,151.91,Usure
+M5,2023-02-15,Autres,5.6,Réparation,Amina,647.9,Surcharge
+M2,2025-10-10,Moteur,3.9,Réparation,Karim,594.55,Mauvais réglage
+M10,2024-02-28,Autres,2.0,Nettoyage,Karim,561.8,Défaut matériel
+M9,2025-05-23,Autres,4.3,Nettoyage,Fatima,799.92,Défaut matériel
+M6,2025-07-17,Autres,6.2,Réparation,Youssef,502.29,Mauvais réglage
+M9,2023-12-08,Moteur,1.1,Réparation,Karim,909.44,Mauvais réglage
+M8,2024-10-12,Capteur,1.1,Nettoyage,Amina,507.09,Surcharge
+M2,2023-06-13,Autres,4.1,Remplacement,Fatima,115.99,Surcharge
+M9,2023-05-25,Surchauffe,6.8,Remplacement,Youssef,504.44,Défaut matériel
+M6,2023-10-09,Capteur,5.7,Nettoyage,Karim,436.33,Défaut matériel
+M4,2024-09-03,Moteur,6.6,Remplacement,Fatima,195.59,Usure
+M4,2024-10-26,Surchauffe,1.2,Réparation,Said,143.34,Défaut matériel
+M5,2024-10-09,Surchauffe,1.4,Remplacement,Fatima,188.42,Surcharge
+M10,2024-03-16,Moteur,4.9,Remplacement,Said,979.66,Surcharge
+M7,2025-10-02,Autres,1.1,Réparation,Karim,676.44,Usure
+M5,2024-02-14,Courroie,7.3,Réparation,Karim,192.54,Défaut matériel
+M3,2025-05-06,Courroie,7.8,Réparation,Karim,601.41,Usure
+M6,2025-09-24,Autres,7.9,Nettoyage,Fatima,999.04,Usure
+M5,2025-11-16,Autres,4.4,Réglage,Amina,258.98,Usure
+M1,2023-01-07,Moteur,1.6,Réparation,Karim,502.59,Défaut matériel
+M3,2023-11-10,Courroie,5.3,Réparation,Fatima,680.74,Usure
+M10,2024-10-27,Autres,3.4,Nettoyage,Youssef,995.86,Usure
+M10,2025-01-03,Courroie,1.1,Nettoyage,Youssef,336.12,Surcharge
+M3,2024-08-23,Moteur,6.3,Réglage,Said,375.35,Surcharge
+M7,2025-03-08,Surchauffe,5.3,Réglage,Fatima,278.66,Mauvais réglage
+M5,2025-03-03,Moteur,2.7,Remplacement,Karim,382.01,Mauvais réglage
+M8,2024-10-09,Surchauffe,6.5,Remplacement,Youssef,660.31,Mauvais réglage
+M6,2023-03-07,Moteur,4.3,Nettoyage,Said,545.47,Usure
+M8,2024-03-27,Capteur,3.2,Nettoyage,Fatima,311.25,Surcharge
+M2,2025-04-19,Courroie,3.4,Réparation,Fatima,948.83,Surcharge
+M9,2023-08-07,Surchauffe,7.2,Remplacement,Karim,478.29,Mauvais réglage
+M6,2024-12-17,Surchauffe,1.3,Nettoyage,Said,903.08,Usure
+M8,2025-09-06,Capteur,4.6,Réglage,Fatima,569.41,Surcharge
+M10,2023-12-24,Courroie,4.2,Nettoyage,Fatima,882.04,Défaut matériel
+M4,2024-01-17,Surchauffe,1.4,Nettoyage,Youssef,476.26,Surcharge
+M2,2024-08-12,Moteur,6.9,Remplacement,Fatima,278.17,Surcharge
+M8,2025-01-25,Surchauffe,2.5,Remplacement,Fatima,943.49,Défaut matériel
+M8,2024-07-28,Autres,5.9,Réparation,Youssef,762.5,Usure
+M4,2024-10-19,Moteur,4.8,Remplacement,Fatima,323.36,Surcharge
+M9,2025-09-24,Capteur,8.0,Nettoyage,Youssef,986.01,Défaut matériel
+M6,2024-12-24,Capteur,3.5,Réparation,Amina,342.85,Mauvais réglage
+M6,2023-03-21,Courroie,3.3,Nettoyage,Youssef,237.87,Surcharge
+M5,2024-05-22,Capteur,2.9,Réparation,Karim,288.73,Usure
+M8,2023-09-22,Courroie,7.2,Remplacement,Amina,613.27,Surcharge
+M10,2025-05-11,Courroie,1.5,Nettoyage,Said,748.4,Surcharge
+M2,2024-03-19,Courroie,4.6,Remplacement,Fatima,724.61,Défaut matériel
+M9,2024-12-16,Moteur,6.6,Remplacement,Youssef,479.36,Surcharge
+M1,2024-07-20,Courroie,3.3,Nettoyage,Fatima,663.89,Défaut matériel
+M10,2024-02-05,Capteur,2.5,Remplacement,Said,900.63,Défaut matériel
+M1,2025-02-03,Moteur,7.2,Réparation,Karim,354.11,Surcharge
+M4,2025-07-01,Courroie,2.7,Remplacement,Said,685.14,Mauvais réglage
+M5,2024-04-26,Capteur,6.8,Remplacement,Youssef,256.41,Défaut matériel
+M8,2024-04-28,Capteur,4.9,Remplacement,Said,168.33,Usure
+M5,2023-09-10,Moteur,5.9,Réparation,Said,971.71,Mauvais réglage
+M7,2025-12-26,Moteur,2.8,Remplacement,Said,783.32,Usure
+M2,2025-12-16,Capteur,3.0,Remplacement,Youssef,194.32,Surcharge
+M7,2024-10-23,Courroie,4.1,Remplacement,Youssef,151.54,Surcharge
+M2,2023-02-16,Courroie,4.7,Remplacement,Fatima,259.96,Surcharge
+M3,2024-06-17,Moteur,4.8,Remplacement,Said,385.72,Surcharge
+M1,2024-04-01,Moteur,7.0,Réparation,Fatima,217.26,Défaut matériel
+M3,2024-02-18,Moteur,7.2,Remplacement,Said,409.71,Usure
+M1,2023-02-15,Capteur,5.2,Réglage,Karim,302.95,Surcharge
+M3,2023-09-21,Capteur,1.1,Réparation,Karim,258.96,Usure
+M10,2024-01-03,Surchauffe,7.1,Réparation,Said,448.76,Surcharge
+M7,2023-08-16,Courroie,2.0,Nettoyage,Karim,669.49,Mauvais réglage
+M6,2023-12-23,Autres,5.0,Remplacement,Amina,762.24,Surcharge
+M6,2023-04-07,Moteur,3.5,Réparation,Youssef,479.09,Mauvais réglage
+M2,2023-05-27,Surchauffe,6.8,Réparation,Karim,536.81,Usure
+M6,2025-02-26,Surchauffe,6.1,Remplacement,Youssef,299.21,Surcharge
+M1,2025-07-15,Autres,2.4,Nettoyage,Fatima,977.92,Défaut matériel
+M5,2023-11-27,Autres,2.4,Réparation,Amina,403.69,Surcharge
+M10,2023-04-26,Autres,3.7,Réglage,Amina,350.16,Surcharge
+M10,2023-10-11,Moteur,7.1,Remplacement,Karim,815.87,Mauvais réglage
+M2,2024-03-22,Surchauffe,3.6,Remplacement,Karim,742.03,Défaut matériel
+M9,2023-11-04,Surchauffe,2.9,Remplacement,Karim,302.63,Mauvais réglage
+M6,2024-09-23,Surchauffe,5.7,Réparation,Fatima,678.55,Usure
+M2,2025-02-25,Autres,5.5,Remplacement,Youssef,292.25,Usure
+M2,2024-06-04,Autres,5.2,Remplacement,Amina,769.72,Usure
+M8,2024-01-15,Moteur,7.8,Nettoyage,Amina,833.28,Défaut matériel
+M8,2025-06-26,Courroie,1.1,Remplacement,Amina,682.75,Surcharge
+M9,2025-05-07,Courroie,6.1,Réglage,Amina,584.14,Défaut matériel
+M3,2023-03-01,Autres,2.8,Réparation,Karim,900.79,Surcharge
+M7,2025-06-08,Courroie,3.0,Réglage,Karim,327.27,Surcharge
+M8,2023-11-19,Surchauffe,7.5,Réglage,Youssef,157.98,Mauvais réglage
+M6,2025-06-12,Autres,1.1,Remplacement,Karim,230.63,Usure
+M7,2025-10-12,Capteur,3.1,Réglage,Amina,920.14,Mauvais réglage
+M3,2024-12-05,Capteur,5.2,Réparation,Karim,134.22,Usure
+M10,2025-03-09,Autres,3.3,Remplacement,Fatima,738.79,Mauvais réglage
+M8,2023-03-27,Moteur,2.4,Réparation,Fatima,201.11,Usure
+M7,2023-03-06,Surchauffe,3.5,Réglage,Youssef,694.67,Usure
+M4,2024-12-03,Capteur,4.2,Nettoyage,Said,125.35,Mauvais réglage
+M5,2023-08-12,Moteur,2.9,Remplacement,Amina,322.59,Défaut matériel
+M10,2023-06-25,Autres,4.8,Nettoyage,Said,202.25,Surcharge
+M10,2023-04-25,Courroie,6.9,Remplacement,Karim,784.76,Surcharge
+M10,2024-11-22,Courroie,7.8,Remplacement,Youssef,830.97,Défaut matériel
+M5,2024-05-24,Courroie,3.9,Réparation,Fatima,517.18,Mauvais réglage
+M7,2023-06-02,Surchauffe,4.9,Remplacement,Karim,683.89,Mauvais réglage
+M4,2025-10-19,Courroie,2.1,Remplacement,Said,621.06,Surcharge
+M9,2024-02-01,Surchauffe,2.0,Réglage,Karim,325.8,Surcharge
+M6,2025-06-05,Capteur,1.1,Réparation,Fatima,849.59,Usure
+M9,2023-10-26,Moteur,7.0,Réglage,Youssef,577.08,Surcharge
+M10,2023-06-07,Courroie,1.1,Réparation,Youssef,900.6,Surcharge
+M1,2023-09-17,Moteur,3.0,Réparation,Amina,517.53,Défaut matériel
+M10,2023-12-23,Autres,7.1,Remplacement,Karim,395.54,Défaut matériel
+M2,2025-08-02,Courroie,5.2,Réglage,Fatima,413.51,Mauvais réglage
+M1,2024-10-04,Capteur,7.2,Réparation,Amina,523.74,Mauvais réglage
+M4,2023-12-21,Surchauffe,3.2,Réparation,Amina,482.15,Mauvais réglage
+M10,2024-10-06,Capteur,4.9,Réparation,Youssef,247.66,Défaut matériel
+M4,2023-05-08,Moteur,4.4,Nettoyage,Said,170.96,Usure
+M6,2024-07-25,Moteur,3.2,Réglage,Karim,716.71,Mauvais réglage
+M4,2023-08-13,Capteur,4.6,Nettoyage,Said,802.16,Défaut matériel
+M7,2025-09-03,Courroie,5.5,Remplacement,Fatima,829.31,Usure
+M10,2023-08-26,Surchauffe,1.1,Nettoyage,Youssef,484.98,Surcharge
+M8,2024-12-22,Capteur,2.5,Remplacement,Karim,296.07,Usure
+M9,2024-04-10,Surchauffe,1.5,Réparation,Karim,824.31,Surcharge
+M7,2023-02-04,Surchauffe,6.2,Réparation,Amina,932.68,Surcharge
+M1,2024-04-09,Courroie,4.2,Nettoyage,Fatima,380.83,Mauvais réglage
+M6,2024-07-28,Capteur,3.1,Remplacement,Karim,800.6,Mauvais réglage
+M10,2023-07-13,Moteur,2.6,Remplacement,Said,881.36,Mauvais réglage
+M4,2025-04-02,Autres,1.9,Réglage,Amina,556.39,Usure
+M7,2024-07-01,Moteur,4.6,Réglage,Karim,557.43,Usure
+M3,2024-05-13,Capteur,6.6,Nettoyage,Amina,159.04,Surcharge
+M5,2025-07-02,Autres,7.5,Réparation,Youssef,787.69,Défaut matériel
+M4,2023-05-19,Moteur,2.4,Remplacement,Youssef,506.28,Surcharge
+M3,2025-12-07,Moteur,4.6,Réglage,Fatima,106.08,Surcharge
+M1,2025-09-26,Surchauffe,6.2,Remplacement,Karim,461.66,Défaut matériel
+M7,2024-10-06,Capteur,6.1,Réparation,Said,828.9,Surcharge
+M4,2025-08-21,Capteur,1.9,Réparation,Said,192.94,Usure
+M6,2024-04-22,Surchauffe,5.1,Nettoyage,Karim,939.27,Usure
+M4,2024-08-03,Capteur,3.9,Nettoyage,Said,379.82,Défaut matériel
+M9,2024-07-01,Courroie,2.1,Réglage,Said,994.69,Défaut matériel
+M3,2024-12-22,Autres,2.8,Remplacement,Karim,404.65,Usure
+M4,2025-02-14,Moteur,4.4,Nettoyage,Said,559.66,Surcharge
+M8,2025-11-08,Autres,5.2,Réglage,Said,300.96,Usure
+M9,2023-03-26,Autres,4.1,Remplacement,Fatima,483.13,Mauvais réglage
+M4,2025-06-08,Courroie,6.8,Nettoyage,Youssef,951.78,Surcharge
+M1,2024-03-21,Autres,3.1,Réparation,Karim,873.83,Usure
+M6,2024-11-27,Capteur,6.5,Nettoyage,Karim,835.84,Défaut matériel
+M8,2025-01-03,Surchauffe,5.8,Réparation,Amina,133.67,Usure
+M5,2025-02-28,Moteur,2.1,Réglage,Fatima,493.77,Surcharge
+M1,2025-04-25,Surchauffe,3.9,Réparation,Fatima,553.41,Défaut matériel
+M3,2023-08-18,Autres,5.5,Réparation,Karim,531.68,Surcharge
+M3,2024-08-14,Courroie,1.2,Nettoyage,Said,888.4,Mauvais réglage
+M2,2025-04-14,Autres,4.9,Remplacement,Amina,423.76,Défaut matériel
+M5,2023-12-14,Surchauffe,5.2,Nettoyage,Amina,464.2,Surcharge
+M4,2024-12-27,Courroie,6.8,Remplacement,Said,345.12,Surcharge
+M6,2024-08-16,Autres,6.0,Réglage,Said,224.29,Mauvais réglage
+M6,2025-04-14,Autres,1.5,Nettoyage,Amina,362.47,Surcharge
+M4,2025-07-02,Surchauffe,3.0,Réglage,Fatima,103.91,Mauvais réglage
+M7,2024-11-02,Courroie,2.1,Nettoyage,Said,399.58,Usure
+M7,2023-12-01,Courroie,7.7,Réparation,Youssef,787.65,Mauvais réglage
+M1,2023-09-27,Moteur,6.1,Réglage,Youssef,541.76,Usure
+M3,2024-10-27,Moteur,4.8,Réparation,Fatima,387.12,Usure
+M1,2025-07-25,Autres,7.0,Réparation,Karim,879.96,Surcharge
+M10,2023-11-03,Autres,2.6,Réglage,Karim,249.82,Défaut matériel
+M6,2025-05-06,Moteur,3.5,Remplacement,Amina,436.13,Mauvais réglage
+M6,2024-08-10,Capteur,4.6,Nettoyage,Said,164.12,Usure
+M8,2025-12-25,Surchauffe,1.0,Réparation,Karim,884.3,Mauvais réglage
+M6,2024-04-17,Surchauffe,6.0,Remplacement,Karim,615.02,Usure
+M1,2025-07-13,Courroie,6.8,Remplacement,Fatima,274.31,Usure
+M8,2024-07-01,Capteur,6.6,Réglage,Fatima,724.26,Défaut matériel
+M10,2024-12-19,Moteur,1.6,Réglage,Youssef,307.13,Défaut matériel
+M10,2024-06-15,Surchauffe,3.3,Réglage,Amina,806.78,Défaut matériel
+M9,2023-05-25,Courroie,8.0,Remplacement,Fatima,274.92,Surcharge
+M5,2025-12-19,Autres,7.7,Réparation,Amina,753.34,Usure
+M9,2024-06-17,Surchauffe,4.9,Remplacement,Fatima,675.48,Surcharge
+M7,2023-05-17,Surchauffe,4.1,Remplacement,Youssef,821.8,Défaut matériel
+M2,2025-04-28,Moteur,4.2,Nettoyage,Youssef,689.46,Surcharge
+M1,2025-11-23,Capteur,3.0,Remplacement,Youssef,176.29,Surcharge
+M5,2025-06-11,Autres,6.8,Remplacement,Karim,527.92,Mauvais réglage
+M7,2024-09-16,Capteur,1.9,Remplacement,Amina,676.57,Défaut matériel
+M6,2024-09-07,Moteur,4.1,Réglage,Karim,968.42,Usure
+M5,2023-04-13,Courroie,4.4,Réparation,Amina,645.59,Surcharge
+M3,2025-03-09,Courroie,7.1,Réparation,Youssef,521.12,Défaut matériel
+M8,2024-06-25,Moteur,4.2,Nettoyage,Karim,853.74,Mauvais réglage
+M6,2024-11-01,Autres,7.5,Réglage,Fatima,283.04,Surcharge
+M7,2025-08-13,Moteur,5.0,Nettoyage,Amina,448.19,Mauvais réglage
+M9,2025-07-27,Autres,4.5,Réparation,Said,884.45,Défaut matériel
+M9,2024-04-19,Surchauffe,7.4,Remplacement,Said,723.43,Mauvais réglage
+M10,2023-12-24,Surchauffe,7.3,Remplacement,Fatima,810.96,Mauvais réglage
+M8,2024-03-15,Capteur,1.4,Réglage,Fatima,345.42,Surcharge
+M8,2025-07-03,Surchauffe,1.4,Réglage,Amina,844.49,Surcharge
+M9,2024-05-02,Moteur,4.2,Nettoyage,Said,211.52,Mauvais réglage
+M7,2023-04-15,Autres,4.8,Remplacement,Youssef,382.73,Usure
+M1,2025-11-21,Courroie,3.6,Réparation,Amina,100.38,Défaut matériel
+M6,2023-02-07,Autres,5.0,Nettoyage,Said,665.13,Mauvais réglage
+M7,2024-10-16,Surchauffe,5.8,Réparation,Youssef,182.79,Défaut matériel
+M8,2023-09-13,Courroie,2.3,Réparation,Said,470.05,Défaut matériel
+M4,2023-09-13,Autres,2.5,Remplacement,Youssef,109.32,Surcharge
+M3,2025-07-05,Autres,3.1,Réparation,Fatima,124.5,Mauvais réglage
+M7,2024-06-26,Autres,6.8,Réparation,Amina,127.28,Mauvais réglage
+M4,2024-05-09,Capteur,7.7,Réglage,Said,684.86,Mauvais réglage
+M2,2023-02-21,Capteur,4.3,Remplacement,Said,686.93,Usure
+M3,2025-10-08,Autres,7.3,Nettoyage,Said,108.24,Usure
+M10,2023-01-12,Courroie,2.7,Réglage,Karim,359.95,Mauvais réglage
+M7,2025-07-20,Moteur,3.9,Remplacement,Karim,641.0,Surcharge
+M4,2023-06-05,Moteur,6.6,Réglage,Karim,935.07,Défaut matériel
+M6,2025-12-09,Capteur,5.9,Réparation,Amina,565.54,Usure
+M3,2024-08-27,Autres,7.4,Nettoyage,Youssef,303.58,Mauvais réglage
+M7,2025-05-05,Autres,1.1,Réglage,Fatima,816.87,Défaut matériel
+M7,2024-02-14,Capteur,7.1,Réglage,Karim,758.22,Mauvais réglage
+M2,2023-04-03,Moteur,4.7,Réparation,Youssef,701.53,Défaut matériel
+M6,2023-04-09,Courroie,5.4,Réglage,Fatima,353.3,Usure
+M3,2025-01-08,Autres,6.3,Réglage,Amina,509.47,Surcharge
+M7,2024-05-22,Autres,1.4,Nettoyage,Said,908.37,Usure
+M5,2025-04-27,Capteur,3.3,Réglage,Fatima,843.0,Mauvais réglage
+M7,2023-09-22,Moteur,7.0,Réparation,Said,176.19,Surcharge
+M9,2024-12-15,Moteur,6.6,Nettoyage,Fatima,797.16,Défaut matériel
+M5,2025-02-17,Surchauffe,7.1,Remplacement,Fatima,728.92,Surcharge
+M5,2023-06-22,Surchauffe,7.5,Réparation,Fatima,170.27,Usure
+M7,2025-01-22,Courroie,5.4,Remplacement,Karim,661.81,Mauvais réglage
+M10,2024-04-21,Surchauffe,4.1,Nettoyage,Karim,308.83,Mauvais réglage
+M9,2024-07-10,Autres,2.6,Réglage,Fatima,902.83,Surcharge
+M9,2023-12-11,Moteur,2.8,Remplacement,Said,990.84,Surcharge
+M2,2025-06-02,Autres,7.7,Réparation,Youssef,113.58,Mauvais réglage
+M4,2025-01-28,Surchauffe,1.3,Nettoyage,Youssef,771.41,Surcharge
+M7,2023-01-11,Surchauffe,5.8,Réglage,Amina,837.06,Mauvais réglage
+M10,2024-06-13,Courroie,6.6,Nettoyage,Youssef,634.87,Mauvais réglage
+M4,2023-01-19,Moteur,5.8,Réglage,Amina,592.25,Surcharge
+M9,2023-11-28,Courroie,5.0,Nettoyage,Said,318.02,Défaut matériel
+M9,2023-01-22,Autres,7.0,Réparation,Fatima,668.05,Mauvais réglage
+M7,2025-12-24,Courroie,1.1,Réglage,Fatima,882.2,Surcharge
+M6,2025-12-13,Moteur,5.5,Nettoyage,Youssef,502.76,Défaut matériel
+M6,2025-08-27,Autres,3.3,Remplacement,Youssef,131.1,Mauvais réglage
